@@ -1,0 +1,8 @@
+PRE:
+https://raw.githubusercontent.com/skyfall1818/MC-Discord-Bot/main/FITSSFF%20MC%20discord%20bot/updater/run.bat
+https://raw.githubusercontent.com/skyfall1818/MC-Discord-Bot/main/FITSSFF%20MC%20discord%20bot/updater/updatefile.txt
+https://raw.githubusercontent.com/skyfall1818/MC-Discord-Bot/main/FITSSFF%20MC%20discord%20bot/updater/update.py
+POST:
+https://raw.githubusercontent.com/skyfall1818/MC-Discord-Bot/main/FITSSFF%20MC%20discord%20bot/MC%20discord%20bot.py
+https://raw.githubusercontent.com/skyfall1818/MC-Discord-Bot/main/FITSSFF%20MC%20discord%20bot/MC%20discord%20settings.py
+https://raw.githubusercontent.com/skyfall1818/MC-Discord-Bot/main/FITSSFF%20MC%20discord%20bot/README.txt
